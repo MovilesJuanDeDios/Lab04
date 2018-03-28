@@ -1,0 +1,118 @@
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\JuegoMemoria.Android.dll
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\JuegoMemoria.Android.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\com.companyname.JuegoMemoria.apk
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\com.companyname.JuegoMemoria-Signed.apk
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Android.csproj.CoreCompileInputs.cache
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Droid.App.xaml.g.cs
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Droid.MainPage.xaml.g.cs
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Android.dll
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Android.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\bin\com.companyname.JuegoMemoria.apk
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable\icon.png
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\values\styles.xml
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\R.cs.flag
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\uploadflags.txt
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\mscorlib.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Core.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Xml.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\JuegoMemoria.Android.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\JuegoMemoria.Android.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\JuegoMemoria.Android.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\casca\Documents\Visual Studio 2017\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\JuegoMemoria.Android.dll
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\JuegoMemoria.Android.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\com.companyname.JuegoMemoria.apk
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\com.companyname.JuegoMemoria-Signed.apk
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Android.csproj.CoreCompileInputs.cache
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Droid.App.xaml.g.cs
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Droid.MainPage.xaml.g.cs
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Android.dll
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\JuegoMemoria.Android.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\android\bin\com.companyname.JuegoMemoria.apk
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable\icon.png
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\res\values\styles.xml
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\R.cs.flag
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\uploadflags.txt
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\JuegoMemoria.Android.dll
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Mono.Android.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\mscorlib.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Core.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Xml.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Mono.Security.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\JuegoMemoria.Android.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\casca\Documents\GitHub\Lab04\JuegoMemoria\JuegoMemoria\JuegoMemoria.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
